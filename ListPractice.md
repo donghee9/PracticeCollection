@@ -1,6 +1,6 @@
 1. 나의 코드
 
-```
+```java
    public class ListPractice {
     
     public static void main(String[] args) {
@@ -46,7 +46,7 @@
 
 개선된 코드 
 
-```
+```java
 public class ListPractice {
     public static void main(String[] args) {
         List<String> strings = new ArrayList<>();
